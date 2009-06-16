@@ -1,0 +1,103 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+AnyIter	python/b13_5_any_iter.py	/^class AnyIter(object):$/;"	c
+Bar	python/b13_last.py	/^class Bar(object):$/;"	c
+CapOpen	python/b13_8_cap_open.py	/^class CapOpen(object):$/;"	c
+DragDropExample	drag.py	/^class DragDropExample(object):$/;"	c
+FileDescr	python/b13_9_descr.py	/^class FileDescr(object):$/;"	c
+Foo	python/b13_last.py	/^class Foo(object):$/;"	c
+FooBar	python/b13_last.py	/^class FooBar(object):$/;"	c
+HotelRoomCalc	python/b13_1_hotel.py	/^class HotelRoomCalc(object):$/;"	c
+NumStr	python/b13_6_numstr.py	/^class NumStr(object):$/;"	c
+RandSeq	python/b13_4_rand_seq.py	/^class RandSeq(object):$/;"	c
+ReqStrSugRepr	python/b13_last.py	/^class ReqStrSugRepr(type):$/;"	c
+RoundFloatManual	python/b13_2_round_float2.py	/^class RoundFloatManual(object):$/;"	c
+Time60	python/b13_3_time60.py	/^class Time60(object):$/;"	c
+TimedWrapMe	python/b13_7_twrapme.py	/^class TimedWrapMe(object):$/;"	c
+TreeViewEaxmple	temp.py	/^class TreeViewEaxmple(object):$/;"	c
+TreeViewExample	treeview.py	/^class TreeViewExample(object):$/;"	c
+__add__	python/b13_3_time60.py	/^    def __add__(self, other):$/;"	m	class:Time60	file:
+__add__	python/b13_6_numstr.py	/^    def __add__(self, other):$/;"	m	class:NumStr	file:
+__cmp__	python/b13_6_numstr.py	/^    def __cmp__(self, other):$/;"	m	class:NumStr	file:
+__delete__	python/b13_9_descr.py	/^    def __delete__(self, obj):$/;"	m	class:FileDescr	file:
+__getattr__	python/b13_7_twrapme.py	/^    def __getattr__(self, attr):$/;"	m	class:TimedWrapMe	file:
+__getattr__	python/b13_8_cap_open.py	/^    def __getattr__(self, attr):$/;"	m	class:CapOpen	file:
+__iadd__	python/b13_3_time60.py	/^    def __iadd__(self, other):$/;"	m	class:Time60	file:
+__init__	drag.py	/^    def __init__(self,  ):$/;"	m	class:DragDropExample
+__init__	python/b13_1_hotel.py	/^    def __init__(self, rt, sales=0.085, rm=0.1):$/;"	m	class:HotelRoomCalc
+__init__	python/b13_2_round_float2.py	/^    def __init__(self, val):$/;"	m	class:RoundFloatManual
+__init__	python/b13_3_time60.py	/^    def __init__(self, hr, min):$/;"	m	class:Time60
+__init__	python/b13_4_rand_seq.py	/^    def __init__(self, seq):$/;"	m	class:RandSeq
+__init__	python/b13_5_any_iter.py	/^    def __init__(self, data, safe=False):$/;"	m	class:AnyIter
+__init__	python/b13_6_numstr.py	/^    def __init__(self, num=0, string=''):$/;"	m	class:NumStr
+__init__	python/b13_7_twrapme.py	/^    def __init__(self, obj):$/;"	m	class:TimedWrapMe
+__init__	python/b13_8_cap_open.py	/^    def __init__(self, fn, mode='r', buf=-1):$/;"	m	class:CapOpen
+__init__	python/b13_9_descr.py	/^    def __init__(self, obj, typ=None):$/;"	m	class:FileDescr
+__init__	python/b13_last.py	/^    def __init__(cls, name, bases, attrd):$/;"	m	class:ReqStrSugRepr
+__init__	temp.py	/^    def __init__(self,  ):$/;"	m	class:TreeViewEaxmple
+__init__	treeview.py	/^    def __init__(self,  ):$/;"	m	class:TreeViewExample
+__iter__	python/b13_4_rand_seq.py	/^    def __iter__(self):$/;"	m	class:RandSeq	file:
+__iter__	python/b13_5_any_iter.py	/^    def __iter__(self):$/;"	m	class:AnyIter	file:
+__mul__	python/b13_6_numstr.py	/^    def __mul__(self, num):$/;"	m	class:NumStr	file:
+__nonzero__	python/b13_6_numstr.py	/^    def __nonzero__(self):$/;"	m	class:NumStr	file:
+__norm_cval	python/b13_6_numstr.py	/^    def __norm_cval(self, cmpres):$/;"	m	class:NumStr	file:
+__repr__	python/b13_7_twrapme.py	/^    def __repr__(self):$/;"	m	class:TimedWrapMe	file:
+__repr__	python/b13_8_cap_open.py	/^    def __repr__(self):$/;"	m	class:CapOpen	file:
+__repr__	python/b13_last.py	/^    def __repr__(self):$/;"	m	class:Foo	file:
+__set__	python/b13_9_descr.py	/^    def __set__(self, obj, val):$/;"	m	class:FileDescr	file:
+__str__	python/b13_2_round_float2.py	/^    def __str__(self):$/;"	m	class:RoundFloatManual	file:
+__str__	python/b13_3_time60.py	/^    def __str__(self):$/;"	m	class:Time60	file:
+__str__	python/b13_6_numstr.py	/^    def __str__(self):$/;"	m	class:NumStr	file:
+__str__	python/b13_7_twrapme.py	/^    def __str__(self):$/;"	m	class:TimedWrapMe	file:
+__str__	python/b13_8_cap_open.py	/^    def __str__(self):$/;"	m	class:CapOpen	file:
+__str__	python/b13_last.py	/^    def __str__(self):$/;"	m	class:Bar	file:
+__str__	python/b13_last.py	/^    def __str__(self):$/;"	m	class:Foo	file:
+add_button_clicked	treeview.py	/^    def add_button_clicked(self, w):$/;"	m	class:TreeViewExample
+calc_total	python/b13_1_hotel.py	/^    def calc_total(self, days=1):$/;"	m	class:HotelRoomCalc
+convert	python/b11_3_numConv.py	/^def convert(func, seq):$/;"	f
+deQ	python/queue.py	/^def deQ():$/;"	f
+doprob	python/b11_1_eacyMath.py	/^def doprob():$/;"	f
+download	python/b11_4_grabWeb.py	/^def download(url = 'http:\/\/www', process = firstLast):$/;"	f
+drag_data_received	drag.py	/^    def drag_data_received(self, img, context, x, y, data, info, time):$/;"	m	class:DragDropExample
+drop_cb	drag.py	/^    def drop_cb(self, wid, context, x, y, time):$/;"	m	class:DragDropExample
+enQ	python/queue.py	/^def enQ():$/;"	f
+f1	python/b11_7_closureVars.py	/^def f1():$/;"	f
+f2	python/b11_7_closureVars.py	/^    def f2():$/;"	f	function:f1
+f3	python/b11_7_closureVars.py	/^        def f3():$/;"	f	function:f1/f2
+firstLast	python/b11_4_grabWeb.py	/^def firstLast(webpage):$/;"	f
+firstNonBlank	python/b11_4_grabWeb.py	/^def firstNonBlank(lines):$/;"	f
+foo	python/b11_2_deco.py	/^def foo():$/;"	f
+get	python/b13_7_twrapme.py	/^    def get(self):$/;"	m	class:TimedWrapMe
+gettimestr	python/b13_7_twrapme.py	/^    def gettimestr(self, t_type):$/;"	m	class:TimedWrapMe
+gettimeval	python/b13_7_twrapme.py	/^    def gettimeval(self, t_type):$/;"	m	class:TimedWrapMe
+main	python/b10_1_cardrun.py	/^def main():$/;"	f
+main	python/b11_1_eacyMath.py	/^def main():$/;"	f
+motion_cb	drag.py	/^    def motion_cb(self, wid, context, x, y, time):$/;"	m	class:DragDropExample
+newuser	python/b7_1_userpw.py	/^def newuser():$/;"	f
+next	python/b13_4_rand_seq.py	/^    def next(self):$/;"	m	class:RandSeq
+next	python/b13_5_any_iter.py	/^    def next(self, howmany=1):$/;"	m	class:AnyIter
+odd	python/b11_oddnogen.py	/^def odd(n):$/;"	f
+olduser	python/b7_1_userpw.py	/^def olduser():$/;"	f
+popit	python/stack.py	/^def popit():$/;"	f
+proc1	python/b11_9_scope.py	/^def proc1():$/;"	f
+proc2	python/b11_9_scope.py	/^    def proc2():$/;"	f	function:proc1
+pushit	python/stack.py	/^def pushit():$/;"	f
+remove_button_clicked	treeview.py	/^    def remove_button_clicked(self, w):$/;"	m	class:TreeViewExample
+safe_float	python/b10_1_cardrun.py	/^def safe_float(obj):$/;"	f
+set	python/b13_7_twrapme.py	/^    def set(self, obj):$/;"	m	class:TimedWrapMe
+show_max_factor	python/b8_1_maxFact.py	/^def show_max_factor(num):$/;"	f
+show_max_factor	python/b8_1_max_fact.py	/^def show_max_factor(num):$/;"	f
+showmenu	python/b7_1_userpw.py	/^def showmenu():$/;"	f
+showmenu	python/queue.py	/^def showmenu():$/;"	f
+showmenu	python/stack.py	/^def showmenu():$/;"	f
+test	python/b11_5_testit.py	/^def test():$/;"	f
+testit	python/b11_5_testit.py	/^def testit(func, *nkwargs, **kwargs):$/;"	f
+tsfunc	python/b11_2_deco.py	/^def tsfunc(func):$/;"	f
+viewQ	python/queue.py	/^def viewQ():$/;"	f
+viewstack	python/stack.py	/^def viewstack():$/;"	f
+wrappedFunc	python/b11_2_deco.py	/^    def wrappedFunc():$/;"	f	function:tsfunc
+write	python/b13_8_cap_open.py	/^    def write(self, line):$/;"	m	class:CapOpen
